@@ -9,6 +9,7 @@
 - 💬 Hobbies: Fixing and Riding Bikes
 - ⚡ Fun fact: If I'm not found here, I'll most probably be restoring my bikes!
 - 😄 Pronouns: him/he
+- 🧑‍💻 I write technical stuffs here - [kevinvishal.blogspot.com](https://kevinvishal.blogspot.com/)
 
 <img src="https://github-readme-stats.vercel.app/api?username=vishalkevin11&show_icons=true">
 

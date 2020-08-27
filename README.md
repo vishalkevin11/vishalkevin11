@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hello there 👋
 
-<!--
-**vishalkevin11/vishalkevin11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on a Flutter app
+- 🌱 I’m currently learning Flutter and Node Js
+- 👯 I’m looking to collaborate on writing REST Api's
+- 🤔 I’m looking for help with - Architecting Flutter App
+- 💬 Ask me about - Swift, Objective C, iOS App Architecture and releasing apps to store
+- 📫 How to reach me: w
+- 💬 Hobbies : Fixing (Not a pro mechanic) and Riding Bikes
+- ⚡ Fun fact: If I'm not found here, I'll most probably be restoring my bikes!
+- 😄 Pronouns: him/he
 
-Here are some ideas to get you started:
+<img src="https://github-readme-stats.vercel.app/api?username=vishalkevin11&show_icons=true">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐️ From [Kevin Vishal](https://github.com/vishlkevin11)

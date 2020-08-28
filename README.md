@@ -1,6 +1,14 @@
-<img src="https://i.pinimg.com/originals/01/b0/aa/01b0aa33d32d0582597807422f657600.jpg">
+<h1 align="left">👋 Welcome to my Github Space!</h3>
 
-### Hello there 👋
+<p align="left">
+  <a href="https://sampoder.com">Web</a> •
+  <a href="https://twitter.com/sam_poder">Twitter</a> •
+  <a href="https://instagram.com/sam_poder">Instagram</a>
+</p>
+
+| I live in **Bangalore,India**  | I am from **Mangalore,India**  |
+|---|---|
+| <img src ="https://cdn.britannica.com/35/142635-050-8828F21A/Parkland-building-High-Court-Vidhana-Soudha-Karnataka.jpg" width = "200px">  |  <img src ="https://d4595be3p93fv.cloudfront.net/wp-content/uploads/2019/11/Mangalore-Tourist-Guide.jpg" width = "200px"> |
 
 - 🔭 I’m currently working on a - Flutter app
 - 🌱 I’m currently - learning Flutter and Node Js

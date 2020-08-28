@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on - writing REST Api's
 - 🤔 I’m looking for help with - Architecting Flutter App
 - 💬 Ask me about: Swift, Objective C, iOS App Architecture and releasing apps to store
-- 📫 How to reach me: [linkedin.com/in/kevin-vishal-ba14524b](https://www.linkedin.com/in/kevin-vishal-ba14524b/)
+- 📫 How to reach me: [linkedin.com/in/kevin-vishal](https://www.linkedin.com/in/kevin-vishal-ba14524b/)
 - 💬 Hobbies: Fixing and Riding Bikes
 - ⚡ Fun fact: If I'm not found here, I'll most probably be restoring my bikes!
 - 😄 Pronouns: him/he

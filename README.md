@@ -19,4 +19,4 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=vishalkevin11&show_icons=true">
 
-⭐️ From [Kevin Vishal](https://github.com/vishlkevin11)
+⭐️ From [Kevin Vishal](https://github.com/vishalkevin11)

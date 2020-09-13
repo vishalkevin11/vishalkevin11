@@ -18,7 +18,7 @@
 - 🌰 My cocoapods - [cocoapods.org/owners/51477](https://cocoapods.org/owners/51477)
 
 <img src="https://github-readme-stats.vercel.app/api?username=vishalkevin11&show_icons=true">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalkevin11&theme=light&hide_langs_below=1" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalkevin11&theme=light&hide_langs_below=0" />
 
 
 ⭐️ From [Kevin Vishal](https://github.com/vishalkevin11)

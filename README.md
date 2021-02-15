@@ -13,7 +13,7 @@
 - 💬 Hobbies: Fixing and Riding Bikes
 - ⚡ Fun fact: If I'm not found here, I'll most probably be restoring my bikes!
 - 😄 Pronouns: him/he
-- 🧑‍💻 I write technical stuffs here - [kevinvishal.blogspot.com](https://kevinvishal.blogspot.com/)
+- 🧑‍💻 I write technical stuffs here - [kevinvishalblog](https://teatalk.top/kevinvishalblog/)
 - 🍃 My Dart/Fluter packages - [pub.dev/packages](https://pub.dev/packages?q=email%3Avishalkevin11%40gmail.com)
 - 🌰 My cocoapods - [cocoapods.org/owners/51477](https://cocoapods.org/owners/51477)
 

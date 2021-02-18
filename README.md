@@ -20,7 +20,4 @@
 <img src="https://github-readme-stats.vercel.app/api?username=vishalkevin11&show_icons=true">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalkevin11&theme=light&layout=compact" />
 
-
-⭐️ From [Kevin Vishal](https://github.com/vishalkevin11)
-
-A [Sonu Sood](https://twitter.com/SonuSood) fan.....
+A ⭐️[Sonu Sood](https://twitter.com/SonuSood) fan.....

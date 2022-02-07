@@ -14,7 +14,7 @@
 - ⚡ Fun fact: If I'm not found here, I'll most probably be chatting with mechanics or petting street dogs!
 - 😄 Pronouns: him/he
 - 🧑‍💻 I write technical stuffs here - [Code OK Please](https://kevinvishal.hashnode.dev/)
-- 🍃 My Dart/Fluter packages - [pub.dev/packages](https://pub.dev/packages?q=email%3Avishalkevin11%40gmail.com)
+- 🍃 My Dart/Fluter packages - [pub.dev/packages](https://pub.dev/publishers/codeokplease.com/packages)
 - 🌰 My cocoapods - [cocoapods.org/owners/51477](https://cocoapods.org/owners/51477)
 
 <img src="https://github-readme-stats.vercel.app/api?username=vishalkevin11&show_icons=true">

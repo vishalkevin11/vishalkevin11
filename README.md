@@ -1,6 +1,6 @@
 <h1 align="left">👋 Welcome to my Github Space!</h3>
 
-| I live in **Bangalore,India**  | I am from **Mangalore,India**  |
+| I live in **Bangalore,India**  | I am from **Udupi,India**  |
 |---|---|
 | <img src ="https://cdn.britannica.com/35/142635-050-8828F21A/Parkland-building-High-Court-Vidhana-Soudha-Karnataka.jpg" width = "200px">  |  <img src ="https://www.holidify.com/images/bgImages/MANGALORE.jpg" width = "200px"> |
 
